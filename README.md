@@ -1,5 +1,5 @@
 <!-- Banner principal -->
-![Bienvenida](https://github.com/BrikmanP/BrikmanP/blob/main/images/Blancoynegro.jpeg?raw=true)
+![Bienvenida](https://github.com/BrikmanP/BrikmanP/blob/main/BlanckAndWhite.jpeg?raw=true)
 
 <h1 align="center">👋 ¡Hola! Soy Brikman Paul</h1>
 <p align="center">
