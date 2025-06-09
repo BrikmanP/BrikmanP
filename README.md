@@ -10,7 +10,7 @@
 
 <h1 align="center">👋 ¡Hola! Soy Brikman Paul</h1>
 <p align="center">
-  Desarrollador Frontend apasionado por crear interfaces limpias, responsivas y con impacto visual.<br />
+  Desarrollador de Software apasionado por crear interfaces limpias, responsivas y con impacto visual.<br />
   Especializado en <strong>React</strong>, <strong>Vite</strong>, <strong>Tailwind CSS</strong> y <strong>Framer Motion</strong>.<br />
   Con experiencia en <strong>Angular</strong>, <strong>Java</strong>, <strong>Python</strong>, <strong>C#</strong> y <strong>SQL Server</strong>.
 </p>
