@@ -1,5 +1,7 @@
-<!-- Banner principal -->
-![Bienvenida](https://github.com/BrikmanP/BrikmanP/blob/main/BlanckAndWhite.jpeg?raw=true)
+<!-- Banner principal con tamaño reducido -->
+<p align="center">
+  <img src="https://github.com/BrikmanP/BrikmanP/blob/main/BlanckAndWhite.jpeg?raw=true" alt="Bienvenida" width="300" />
+</p>
 
 <h1 align="center">👋 ¡Hola! Soy Brikman Paul</h1>
 <p align="center">
@@ -43,8 +45,6 @@
 
 ## 📂 Repositorios Destacados
 
-Aquí algunos de mis repositorios más representativos:
-
 ### 📌 Proyectos personales y de práctica
 
 - [pagina-oficial-brikman-paul](https://github.com/BrikmanP/pagina-oficial-brikman-paul)
@@ -75,8 +75,12 @@ Aquí algunos de mis repositorios más representativos:
 
 ## 📊 Estadísticas GitHub
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=BrikmanP&layout=compact&langs_count=6&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrikmanP&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide_title=true&line_height=28&icon_color=61dafb" alt="Estadísticas GitHub" width="450" />
+</p>
 
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=BrikmanP&show_icons=true&theme=tokyonight&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrikmanP&layout=compact&langs_count=6&theme=tokyonight&hide_title=true" alt="Top Lenguajes" width="300" />
+</p>
 
 ---
