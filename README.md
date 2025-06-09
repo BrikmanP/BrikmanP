@@ -3,12 +3,12 @@
   <img 
     src="https://github.com/BrikmanP/BrikmanP/blob/main/image.png?raw=true" 
     alt="Bienvenida" 
-    width="350" 
+    width="500" 
     style="border-radius: 15px; box-shadow: 0 8px 15px rgba(0,0,0,0.3); filter: brightness(1.05) contrast(1.1);"
   />
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy Brikman Paul</h1>
+<h1 align="center">👋 ¡Hola! Soy Brikman Paul Morales</h1>
 <p align="center">
   Desarrollador de Software apasionado por crear interfaces limpias, responsivas y con impacto visual.<br />
   Especializado en <strong>React</strong>, <strong>Vite</strong>, <strong>Tailwind CSS</strong> y <strong>Framer Motion</strong>.<br />
