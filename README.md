@@ -1,6 +1,11 @@
-<!-- Banner principal con tamaño reducido -->
+<!-- Banner principal con estilo aplicado -->
 <p align="center">
-  <img src="https://github.com/BrikmanP/BrikmanP/blob/main/BlanckAndWhite.jpeg?raw=true" alt="Bienvenida" width="300" />
+  <img 
+    src="https://github.com/BrikmanP/BrikmanP/blob/main/BlanckAndWhite.jpeg?raw=true" 
+    alt="Bienvenida" 
+    width="350" 
+    style="border-radius: 15px; box-shadow: 0 8px 15px rgba(0,0,0,0.3); filter: brightness(1.05) contrast(1.1);"
+  />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Brikman Paul</h1>
@@ -76,11 +81,11 @@
 ## 📊 Estadísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrikmanP&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide_title=true&line_height=28&icon_color=61dafb" alt="Estadísticas GitHub" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrikmanP&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide_title=true&line_height=28&icon_color=61dafb" alt="Estadísticas GitHub" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrikmanP&layout=compact&langs_count=6&theme=tokyonight&hide_title=true" alt="Top Lenguajes" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrikmanP&layout=compact&langs_count=6&theme=tokyonight&hide_title=true" alt="Top Lenguajes" width="350" />
 </p>
 
 ---
