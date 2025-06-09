@@ -39,7 +39,5 @@
 
 ---
 
-## 🏷️ Topics recomendados
 
-Agrega estos en tus repos (sección "About" en GitHub):
 
