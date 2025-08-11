@@ -62,6 +62,18 @@
 - [paginaTramite](https://github.com/BrikmanP/paginaTramite)
 - [tramite](https://github.com/BrikmanP/tramite)
 
+- ---
+
+## 🔥 Proyectos Recientes
+
+| Proyecto             | Descripción             | Lenguaje/Stack | Última actualización       |
+|----------------------|-------------------------|----------------|----------------------------|
+| [AromaYSabor](https://github.com/BrikmanP/AromaYSabor)         | Pastelería                  | TypeScript    | Hace 21 minutos            |
+| [AndresOvalle](https://github.com/BrikmanP/AndresOvalle)       | Sitio Web de Comercio       | CSS           | Hace 3 horas              |
+| [theHouseMental](https://github.com/BrikmanP/theHouseMental)   | Página Oficial The House Mental | TypeScript    | La semana pasada          |
+
+
+
 ### 💼 Proyectos colaborativos
 
 - [i002-donatello-front](https://github.com/IgrowkerTraining/i002-donatello-front)
