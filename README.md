@@ -64,14 +64,15 @@
 
 - ---
 
-## 🔥 Proyectos Recientes
+---
 
-| Proyecto             | Descripción             | Lenguaje/Stack | Última actualización       |
-|----------------------|-------------------------|----------------|----------------------------|
-| [AromaYSabor](https://github.com/BrikmanP/AromaYSabor)         | Pastelería                  | TypeScript    | Hace 21 minutos            |
-| [AndresOvalle](https://github.com/BrikmanP/AndresOvalle)       | Sitio Web de Comercio       | CSS           | Hace 3 horas              |
-| [theHouseMental](https://github.com/BrikmanP/theHouseMental)   | Página Oficial The House Mental | TypeScript    | La semana pasada          |
+## 🔥 Proyectos en Desarrollo (Privados)
 
+| Proyecto             | Descripción             | Lenguaje/Stack | Estado               |
+|----------------------|-------------------------|----------------|----------------------|
+| AromaYSabor          | Pastelería              | TypeScript     | Privado - En desarrollo  |
+| AndresOvalle         | Sitio Web de Comercio   | CSS            | Privado - En desarrollo  |
+| theHouseMental       | Página Oficial The House Mental | TypeScript     | Privado - En desarrollo  |
 
 
 ### 💼 Proyectos colaborativos
