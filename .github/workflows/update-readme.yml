@@ -1,0 +1,36 @@
+name: Actualizar README.md
+
+on:
+  push:
+    branches:
+      - master  # O 'main' si tu repositorio usa esa rama
+  schedule:
+    - cron: "0 0 * * 0"  # Ejecutar automáticamente cada domingo a medianoche
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v2
+
+      - name: Obtener estadísticas de GitHub
+        run: |
+          curl -s https://api.github.com/users/BrikmanP > user_stats.json
+          repos_count=$(jq .public_repos < user_stats.json)
+          followers_count=$(jq .followers < user_stats.json)
+          echo "Repositorios: $repos_count, Seguidores: $followers_count"
+
+      - name: Actualizar README.md con nuevas estadísticas
+        run: |
+          sed -i "s/Repositorios: .*/Repositorios: $repos_count/" README.md
+          sed -i "s/Seguidores: .*/Seguidores: $followers_count/" README.md
+
+      - name: Commit y push de los cambios
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Actualización automática de estadísticas del README"
+          git push
