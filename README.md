@@ -44,7 +44,7 @@
 - 📡 Consumo e integración de APIs RESTful optimizando tiempos de carga en un 20%.
 - 🔄 Implementación de pruebas de rendimiento y debugging, aumentando la estabilidad en un 18%.
 - 💾 Optimización de procesos ETL en Azure Data Factory y SQL Server reduciendo los tiempos en un 15%.
-- 🧠 Integración de Redis y optimización de queries para mejorar el rendimiento general en un 20%.
+- 🧠 Integración y optimización de queries para mejorar el rendimiento general en un 20%.
 
 ---
 
