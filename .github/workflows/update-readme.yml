@@ -22,7 +22,7 @@ jobs:
           followers_count=$(jq .followers < user_stats.json)
           echo "Repositorios: $repos_count, Seguidores: $followers_count"
 
-      - name: Actualizar README.md con nuevas estadísticas
+      - name: Actualizar, README.md con nuevas estadísticas
         run: |
           sed -i "s/Repositorios: .*/Repositorios: $repos_count/" README.md
           sed -i "s/Seguidores: .*/Seguidores: $followers_count/" README.md
