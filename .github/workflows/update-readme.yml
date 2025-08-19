@@ -3,7 +3,7 @@ name: Actualizar README.md
 on:
   push:
     branches:
-      - main  # Se ejecutará cuando hagas push a la rama 'main'
+      - master  # O 'main' si tu repositorio usa esa rama
   schedule:
     - cron: "0 0 * * 0"  # Ejecutar automáticamente cada domingo a medianoche
 
