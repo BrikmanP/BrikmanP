@@ -73,6 +73,7 @@
 | AromaYSabor          | Pastelería              | TypeScript     | Privado - En desarrollo  |
 | AndresOvalle         | Sitio Web de Comercio   | CSS            | Privado - En desarrollo  |
 | theHouseMental       | Página Oficial The House Mental | TypeScript     | Privado - En desarrollo  |
+| CGproductos     | Tienda     | Privado - En desarrollo  |
 
 
 ### 💼 Proyectos colaborativos
