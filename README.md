@@ -64,6 +64,21 @@
 
 - ---
 
+### 📌 CV Interactivo
+
+<p align="center">
+  <img 
+    src="public/fondo.png" 
+    alt="CV Interactivo" 
+    width="400" 
+    style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.25);"
+  />
+</p>
+
+Este es un CV interactivo desarrollado con React, Next.js 13, Tailwind CSS y Dark Mode integrado.  
+Puedes verlo y contribuir en el repositorio:  
+[https://github.com/BrikmanP/CvBrikmanPaul](https://github.com/BrikmanP/CvBrikmanPaul)
+
 ---
 
 ## 🔥 Proyectos en Desarrollo (Privados)
@@ -73,8 +88,7 @@
 | AromaYSabor          | Pastelería              | TypeScript     | Privado - En desarrollo  |
 | AndresOvalle         | Sitio Web de Comercio   | CSS            | Privado - En desarrollo  |
 | theHouseMental       | Página Oficial The House Mental | TypeScript     | Privado - En desarrollo  |
-| CGproductos     | Tienda     | Privado - En desarrollo  |
-
+| CGproductos          | Tienda                  | Privado - En desarrollo  |
 
 ### 💼 Proyectos colaborativos
 
