@@ -1,7 +1,7 @@
 <!-- Banner principal con estilo aplicado -->
 <p align="center">
   <img 
-    src="https://github.com/BrikmanP/BrikmanP/blob/main/image.png?raw=true" 
+    src="https://github.com/BrikmanP/BrikmanP/blob/main/nueva.png?raw=true" 
     alt="Bienvenida" 
     width="500" 
     style="border-radius: 15px; box-shadow: 0 8px 15px rgba(0,0,0,0.3); filter: brightness(1.05) contrast(1.1);"
